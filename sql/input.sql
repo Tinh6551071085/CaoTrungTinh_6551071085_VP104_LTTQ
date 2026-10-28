@@ -1,0 +1,1 @@
+﻿insert into NhanVien values ( N'N001',N'Nguyễn Văn A', N'8,000,000');

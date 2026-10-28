@@ -134,7 +134,7 @@ namespace CaoTrungTinh_6551071085_VP104_LTTQ
             }
             return true;
         }
-
+        // lấy lương
         private static bool ThuLayLuong(string text, out long luong)
         {
             luong = 0;
